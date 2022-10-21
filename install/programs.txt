@@ -1,0 +1,8 @@
+amazon-corretto-15.0.2.7.1-windows-x64.msi
+arduino-1.8.13-windows.exe
+FileZilla_3.53.1_win64_sponsored-setup.exe
+freerouting-1.4.4-windows-x64.msi
+gimp-2.10.22-setup.exe
+kicad-5.1.9_1-x86_64.exe
+putty-64bit-0.74-installer.msi
+TeensyduinoInstall.exe

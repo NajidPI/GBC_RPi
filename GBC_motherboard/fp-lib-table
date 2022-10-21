@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name GBC_components)(type KiCad)(uri ${KIPRJMOD}/GBC_components.pretty)(options "")(descr ""))
+)
